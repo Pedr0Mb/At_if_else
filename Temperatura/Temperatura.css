@@ -1,0 +1,56 @@
+.titulo{
+    text-align: center;
+    font-size:  45pt;
+    background-color: darkred;
+    padding-bottom: 10px;
+    color: #ffffff;
+    font-weight: bolder;
+}
+.body{
+    background-color: #EA2C32;
+}
+.main{
+    margin-top: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.form{
+    width: 150px;
+    border: solid 2px #EA2C32;
+    color: darkred;
+}
+.secForm{
+    width: 500px;
+    height: auto;
+    border: solid 5px darkred;
+    padding-bottom: 20px;
+    background-color: white;    
+    color: darkred;
+}
+.formulario{
+    margin-top: 30px;
+    font-size: 30pt;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+.resultado{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 40pt;
+
+}
+.secFormRes{
+    background-color: #ffffff;
+    width: 850px;
+    height: auto;
+    border: solid 5px darkred;
+    padding: 30px;
+    color: #EA2C32;
+}
+.botaos{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+}

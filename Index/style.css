@@ -1,0 +1,24 @@
+.titulo{
+    text-align: center;
+    font-size:  45pt;
+    background-color: darkred;
+    padding-bottom: 10px;
+    color: #ffffff;
+    font-weight: bolder;
+}
+.main{
+    margin-top: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.card{
+    margin-left: 10px;
+}
+.card-link{
+    text-decoration: none;
+}
+.body{
+    background-color: #EA2C32;
+}
+
